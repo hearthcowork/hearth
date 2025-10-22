@@ -259,7 +259,7 @@ export default function HeroSection() {
               <div className="absolute inset-0">
                 <Image
                   src="/hero-image-back-ground-images.png"
-                  alt="Community, entrepreneurship, and wellness images"
+                  alt="Community, entrepreneur, and wellness images"
                   fill
                   className="object-contain"
                   quality={100}
@@ -291,7 +291,7 @@ export default function HeroSection() {
         <div className="absolute inset-0">
           <Image
             src="/mobile-hero-images.png"
-            alt="Mobile community, entrepreneurship, and wellness images"
+            alt="Mobile community, entrepreneur, and wellness images"
             fill
             className="object-contain"
             quality={100}
