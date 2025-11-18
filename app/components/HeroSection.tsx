@@ -162,7 +162,7 @@ export default function HeroSection() {
             </a>
             <div className="flex items-center space-x-6">
               <a 
-                href="https://instagram.com/hearth"
+                href="https://instagram.com/hearthcowork"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-8 h-8 opacity-70 hover:opacity-100 transition-opacity"

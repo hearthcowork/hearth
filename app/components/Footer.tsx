@@ -21,7 +21,7 @@ export default function Footer() {
             
             {/* Copyright Text */}
             <p className="font-montserrat text-sm text-neutral-700 text-center lg:text-left max-w-lg">
-              Copyright © 2025 Hearth Co-work and Co-wellness - All Rights Reserved.
+              Copyright © 2025 Hearth Cowork and Cowellness - All Rights Reserved.
             </p>
           </div>
 
